@@ -1,3 +1,4 @@
-road track
-turtle track
-no track
+none
+fox
+bird
+snow leapord
